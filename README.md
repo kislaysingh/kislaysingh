@@ -7,9 +7,8 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kislay00-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kislay00)
-[![Blog](https://img.shields.io/badge/Blog-kislayhack-00FF41?style=for-the-badge&logo=blogger&logoColor=black)](http://www.kislayhack.blogspot.in)
 [![Email](https://img.shields.io/badge/Gmail-kislaysingh00-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kislaysingh00@gmail.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://hackthebox.com](https://app.hackthebox.com/users/2501365))
 
 ![](https://komarev.com/ghpvc/?username=kislaysingh&color=00ff41&style=flat-square&label=Profile+Views)
 
