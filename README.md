@@ -92,15 +92,73 @@ class 0xKislay:
 
 ## `> ps aux | grep experience`
 
-```diff
-+ H-Kare Solution Sdn Bhd — Sr. Security Consultant    [May 2025 – Present   | KL, Malaysia]
-  Lead VAPT across web, mobile, API, cloud & infra | ISO 27001 | 40% efficiency via automation
+<details open>
+<summary><strong>H-Kare Solution Sdn Bhd</strong> — Sr. Security Consultant | May 2025 – Present | Kuala Lumpur, Malaysia</summary>
+<br>
 
-+ Firmus — Sr. Security Consultant                      [Feb 2022 – May 2025  | KL, Malaysia]
-  Managed team of 10 | 100s of assessments | Banking, Aviation, Healthcare sectors
+- Leading VAPT engagements across web, mobile, API, cloud, and infrastructure environments.
+- Supporting security initiatives aligned with ISO 27001 and enterprise risk reduction goals.
+- Improved assessment workflow efficiency by 40% through automation and process optimization.
+- Working across offensive security delivery, technical validation, and client-facing reporting.
 
-- SkillCube India — Consultant Cyber Security           [Jan 2021 – Jan 2022  | Gurgaon, India]
-- Cyber Sapiens United — Red Team Analyst               [Sep 2019 – Jan 2021  | Mangalore, India]
+<p>
+  <img src="https://img.shields.io/badge/Web-00ff41?style=flat-square&logo=googlechrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/API-00ff41?style=flat-square&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud-00ff41?style=flat-square&logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/Infra-00ff41?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+</details>
+
+<details>
+<summary><strong>Firmus</strong> — Sr. Security Consultant | Feb 2022 – May 2025 | Kuala Lumpur, Malaysia</summary>
+<br>
+
+- Managed and mentored a team of 10 consultants across multiple assessment tracks.
+- Delivered hundreds of security assessments for banking, aviation, and healthcare clients.
+- Performed web, API, mobile, network, and infrastructure security testing engagements.
+- Contributed to technical quality, reporting standards, and project delivery consistency.
+
+<p>
+  <img src="https://img.shields.io/badge/Leadership-00ff41?style=flat-square&logo=githubactions&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web-00ff41?style=flat-square&logo=googlechrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mobile-00ff41?style=flat-square&logo=android&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network-00ff41?style=flat-square&logo=cisco&logoColor=black" />
+</p>
+
+</details>
+
+<details>
+<summary><strong>SkillCube India</strong> — Consultant Cyber Security | Jan 2021 – Jan 2022 | Gurgaon, India</summary>
+<br>
+
+- Conducted penetration testing and security assessments across enterprise applications and infrastructure.
+- Supported vulnerability validation, reporting, and remediation guidance for clients.
+- Strengthened hands-on experience in offensive security operations and consulting delivery.
+
+<p>
+  <img src="https://img.shields.io/badge/Pentest-00ff41?style=flat-square&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Assessment-00ff41?style=flat-square&logo=datadog&logoColor=black" />
+  <img src="https://img.shields.io/badge/Reporting-00ff41?style=flat-square&logo=readthedocs&logoColor=black" />
+</p>
+
+</details>
+
+<details>
+<summary><strong>Cyber Sapiens United</strong> — Red Team Analyst | Sep 2019 – Jan 2021 | Mangalore, India</summary>
+<br>
+
+- Worked on red team and adversary-simulation activities in enterprise environments.
+- Performed offensive assessments focused on enumeration, exploitation, and post-exploitation workflows.
+- Built foundational experience in real-world attack paths, tooling, and reporting discipline.
+
+<p>
+  <img src="https://img.shields.io/badge/Red%20Team-00ff41?style=flat-square&logo=proxmox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Post--Exploitation-00ff41?style=flat-square&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adversary%20Simulation-00ff41?style=flat-square&logo=ghostery&logoColor=black" />
+</p>
+
+</details>
 ```
 
 ---
