@@ -16,41 +16,6 @@
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Elite%20Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2501365)
 
-### Profile Details
-
-- **Username:** kislay00
-- **Rank:** Elite Hacker
-- **Global Rank:** #719
-- **Points:** 263
-- **Flags:** 126
-- **Machines Completed:** 28
-- **Sherlocks Completed:** 1
-- **Challenges Completed:** 68
-- **Fortresses Completed:** 4
-- **Pro Labs Completed:** 0
-- **Mini Pro Labs Completed:** 0
-- **Country:** Malaysia
-- **Joined:** Aug, 2025
-- **Respects:** 1
-- **Followers:** 1
-- **Following:** 0
-
-### Badges
-
-[![Rank](https://img.shields.io/badge/Rank-Elite%20Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2501365)
-[![Global Rank](https://img.shields.io/badge/Global%20Rank-%23719-2F80ED?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2501365)
-[![Points](https://img.shields.io/badge/Points-263-F2994A?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2501365)
-[![Flags](https://img.shields.io/badge/Flags-126-EB5757?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2501365)
-[![Machines](https://img.shields.io/badge/Machines-28-27AE60?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2501365)
-[![Sherlocks](https://img.shields.io/badge/Sherlocks-1-9B51E0?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2501365)
-[![Challenges](https://img.shields.io/badge/Challenges-68-F2C94C?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2501365)
-[![Fortresses](https://img.shields.io/badge/Fortresses-4-56CCF2?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2501365)
-[![Country](https://img.shields.io/badge/Country-Malaysia-6FCF97?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2501365)
-
-### Profile Link
-
-[View my Hack The Box profile](https://app.hackthebox.com/users/2501365)
-
 </div>
 
 ---
