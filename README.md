@@ -98,7 +98,7 @@ class 0xKislay:
 
 - Leading VAPT engagements across web, mobile, API, cloud, and infrastructure environments.
 - Supporting security initiatives aligned with ISO 27001 and enterprise risk reduction goals.
-- Improved assessment workflow efficiency by 40% through automation and process optimization.
+- Improved assessment workflow efficiency through automation and process optimization.
 - Working across offensive security delivery, technical validation, and client-facing reporting.
 
 <p>
@@ -114,7 +114,6 @@ class 0xKislay:
 <summary><strong>Firmus</strong> — Sr. Security Consultant | Feb 2022 – May 2025 | Kuala Lumpur, Malaysia</summary>
 <br>
 
-- Managed and mentored a team of 10 consultants across multiple assessment tracks.
 - Delivered hundreds of security assessments for banking, aviation, and healthcare clients.
 - Performed web, API, mobile, network, and infrastructure security testing engagements.
 - Contributed to technical quality, reporting standards, and project delivery consistency.
